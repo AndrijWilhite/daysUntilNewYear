@@ -1,0 +1,21 @@
+{
+  "name": "daysuntilgregoriannewyear",
+  "version": "1.0.0",
+  "description": "takes current day and returns amount of days until gregorian new year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "days",
+    "gregorian",
+    "newyear",
+    "new",
+    "year"
+  ],
+  "author": "Andrij Wilhite",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
