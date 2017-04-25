@@ -11,4 +11,5 @@ function getDaysUntillNewYear(){
          }
         return daysUntil;
 }
+
 module.exports = getDaysUntillNewYear;
